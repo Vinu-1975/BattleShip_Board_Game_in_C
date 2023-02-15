@@ -1,0 +1,16 @@
+In each round, each player takes a turn to 
+announce a target square
+in the opponent's grid which is to be shot at.
+
+The opponent announces whether or not 
+the square is occupied by a ship.
+If it is a "hit", the player who is hit marks
+this on their own or "ocean" grid and continues
+to guess another square.
+
+if it is a miss then the current player loses
+his turn and the next player chooses a
+random square.
+
+game goes on till any one player's ships are 
+sunk. in that case that player loses.
